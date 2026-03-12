@@ -1,7 +1,7 @@
 # **BRAT** (Bread + Cat)
 
 ## **Project overview**
-This project tackles the binary image classification task of distinguishing between images of cats and loaves of bread using the [CatLoaf](https://www.kaggle.com/datasets/erogluegemen/cat-catloaf-classification) dataset.
+This project tackles the binary image classification task of distinguishing between images of cats and cats in the "loaf" position (paws tucked underneath the body, resembling a loaf shape) using the [CatLoaf](https://www.kaggle.com/datasets/erogluegemen/cat-catloaf-classification) dataset.
 
 ## Setup instructions
 
