@@ -1,5 +1,4 @@
-# **BRAT**
-BRAT is short for bread and cat!
+# **BRAT** (Bread + Cat)
 
 ## **Project overview**
 This project tackles the binary image classification task of distinguishing between images of cats and loaves of bread using the [CatLoaf](https://www.kaggle.com/datasets/erogluegemen/cat-catloaf-classification) dataset.
